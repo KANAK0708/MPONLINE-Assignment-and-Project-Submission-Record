@@ -1,14 +1,14 @@
 # 📂 AI & Machine Learning Projects Portfolio
 
-**Name:** Akshat Garg  
+**Name:** Kanak Garg  
 
-**Registration Number:** 23BCE10641
+**Registration Number:** 23MIP10057
 
-**Application Number:** IN26011052
+**Application Number:** IN26011450
 
 **Batch Number:** 1A
 
-**Email ID:** akshat.23bce10641@vitbhopal.ac.in 
+**Email ID:** kanak.23mip10057@vitbhopal.ac.in 
 
 ---
 
